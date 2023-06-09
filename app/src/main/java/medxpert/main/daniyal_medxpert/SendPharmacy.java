@@ -30,7 +30,7 @@ public class SendPharmacy extends AppCompatActivity
         ArrayList<MedicineModel> SelectedItems = (ArrayList<MedicineModel>) intent.getSerializableExtra("SelectedItems");
 
         SendPharmacyRecycler=findViewById(R.id.recyclersendpharmacy);
-
+//todo
 
 
 
